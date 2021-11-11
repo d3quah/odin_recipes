@@ -1,5 +1,5 @@
 # odin_recipes
-This is a recipes site with quick, easy and nutritious recipes.
+This is a recipe site with quick, easy and nutritious recipes.
 The page has been designed and laid layout to allow for easy navigation.
 The recipes are very easy to follow.
 I built the site using the html elements like; heading tag, image tag, paragraph tag, unordered list, list, emphasize tag, strong tag, link tag etc.
